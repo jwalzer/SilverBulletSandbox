@@ -18,3 +18,5 @@ But it had indeed quite some more useful features realized, than there currently
 Thats why I’m thinking of gathering some ideas and creating some issues tickets, to explain, and help implementing these features.
 
 So, most of the issues I’ll be opening the next days/weeks will be some, that allow to close some gaps and provide a functionality that surpasses the idea of a “simple note taking” app ... ;)
+
+I have a list of these ideas published under https://github.com/jwalzer/SilverBulletSandbox/tree/main/silverbullet/issues where I’m currently trying to play with the options that SB gives

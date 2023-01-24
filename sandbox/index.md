@@ -12,10 +12,24 @@ test
 
 
 <!-- #query page order by lastModified desc render [[template/query test]] -->
-name: sandbox/index lastModified: 1674597256891 contentType: text/markdown size: 6548 perm: rw sandbox: test1 tags: sandbox,testtag
+name: silverbullet lastModified: 1674597465110 contentType: text/markdown size: 4851 perm: rw
 
 
-[[sandbox/index]]: [6548] (1674597256891)
+[[silverbullet]]: [4851] (1674597465110)
+
+---
+
+ name: silverbullet/issues/Per Directory Settings lastModified: 1674597461179 contentType: text/markdown size: 1187 perm: rw title: Per Directory Settings summary: some settings should be possible to overwrite on a directory basis type: issue tags: silverbullet, wishlist, settings date-created: 2023-01-24T00:00:00.000Z link: 
+
+
+[[silverbullet/issues/Per Directory Settings]]: [1187] (1674597461179)
+
+---
+
+ name: sandbox/index lastModified: 1674597319968 contentType: text/markdown size: 6548 perm: rw sandbox: test1 tags: sandbox,testtag
+
+
+[[sandbox/index]]: [6548] (1674597319968)
 
 ---
 
@@ -23,20 +37,6 @@ name: sandbox/index lastModified: 1674597256891 contentType: text/markdown size:
 
 
 [[Pageindex]]: [1702] (1674597237819)
-
----
-
- name: silverbullet lastModified: 1674597223849 contentType: text/markdown size: 5084 perm: rw
-
-
-[[silverbullet]]: [5084] (1674597223849)
-
----
-
- name: silverbullet/issues/Per Directory Settings lastModified: 1674597220585 contentType: text/markdown size: 987 perm: rw title: Per Directory Settings summary: some settings should be possible to overwrite on a directory basis type: issue tags: silverbullet, wishlist, settings date-created: 2023-01-24T00:00:00.000Z link: 
-
-
-[[silverbullet/issues/Per Directory Settings]]: [987] (1674597220585)
 
 ---
 
