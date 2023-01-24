@@ -26,6 +26,8 @@ But it had indeed quite some more useful features realized, than there currently
 Thats why I’m thinking of gathering some ideas and creating some issues tickets, to explain, and help implementing these features.
 
 So, most of the issues I’ll be opening the next days/weeks will be some, that allow to close some gaps and provide a functionality that surpasses the idea of a “simple note taking” app ... ;)
+
+I have a list of these ideas published under https://github.com/jwalzer/SilverBulletSandbox/tree/main/silverbullet/issues where I’m currently trying to play with the options that SB gives
 <!-- /include -->
 ___
 
@@ -56,20 +58,5 @@ ___
 ### Open Tasks
 
 <!-- #query task where page =~ /^silverbullet.*/ and done = false render [[template/tasks/silverbullet]]-->
-* **[[silverbullet/issues/Per Directory Settings@1140|silverbullet/issues/Per Directory Settings]]**: open ticket on github 
-* **[[silverbullet/issues/Per Directory Settings@1168|silverbullet/issues/Per Directory Settings]]**: document link: 
-* **[[silverbullet/issues/Selective Include@1824|silverbullet/issues/Selective Include]]**: open ticket on github 
-* **[[silverbullet/issues/Selective Include@1852|silverbullet/issues/Selective Include]]**: document link: 
-* **[[silverbullet/issues/Ellipsis and folding@315|silverbullet/issues/Ellipsis and folding]]**: finalize description 
-* **[[silverbullet/issues/Ellipsis and folding@353|silverbullet/issues/Ellipsis and folding]]**: reproduce 
-* **[[silverbullet/issues/Ellipsis and folding@369|silverbullet/issues/Ellipsis and folding]]**: open ticket on github 
-* **[[silverbullet/issues/Ellipsis and folding@397|silverbullet/issues/Ellipsis and folding]]**: document link: 
-* **[[silverbullet/issues/Header, Footer, SidePage@576|silverbullet/issues/Header, Footer, SidePage]]**: open ticket on github 
-* **[[silverbullet/issues/Header, Footer, SidePage@604|silverbullet/issues/Header, Footer, SidePage]]**: document link: 
-* **[[silverbullet/issues/Keyboard Shortcut for Updates@827|silverbullet/issues/Keyboard Shortcut for Updates]]**: open ticket on github 
-* **[[silverbullet/issues/Keyboard Shortcut for Updates@855|silverbullet/issues/Keyboard Shortcut for Updates]]**: document link: 
-* **[[silverbullet/issues/Variable Expansion inside page@876|silverbullet/issues/Variable Expansion inside page]]**: open ticket on github 
-* **[[silverbullet/issues/Variable Expansion inside page@904|silverbullet/issues/Variable Expansion inside page]]**: document link: 
-* **[[silverbullet/issues/Virtual pages@961|silverbullet/issues/Virtual pages]]**: open ticket on github 
-* **[[silverbullet/issues/Virtual pages@989|silverbullet/issues/Virtual pages]]**: document link:
+
 <!-- /query -->

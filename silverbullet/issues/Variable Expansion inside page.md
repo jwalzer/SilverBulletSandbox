@@ -4,7 +4,7 @@ summary: Allow expansion of variables inside the page via handlebars
 type: issue, wishlist
 tags: silverbullet
 date-created: 2023-01-24
-link: 
+link: https://github.com/silverbulletmd/silverbullet/issues/336
 ---
 [[silverbullet|Overview]]
 
@@ -29,5 +29,5 @@ Additional tokens that would be valuable to have access to:
 * 
 
 ### state
-* [ ] open ticket on github
-* [ ] document link: 
+* [x] open ticket on github
+* [x] document link: https://github.com/silverbulletmd/silverbullet/issues/336

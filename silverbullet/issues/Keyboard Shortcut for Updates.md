@@ -2,7 +2,7 @@
 type: issue
 tags: silverbullet, keyboard, shortcuts
 date-created: 2023-01-24
-link: null
+link: https://github.com/silverbulletmd/silverbullet/issues/337
 summary: some keyboard shortcuts are not well selected
 ---
 
@@ -21,6 +21,5 @@ some keyboard shortcuts are not well selected
 
 
 ### State
-* [x] reproduce
-* [ ] open ticket on github
-* [ ] document link: 
+* [x] open ticket on github
+* [x] document link: https://github.com/silverbulletmd/silverbullet/issues/337

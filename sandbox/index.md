@@ -12,7 +12,21 @@ test
 
 
 <!-- #query page order by lastModified desc render [[template/query test]] -->
-name: silverbullet lastModified: 1674597465110 contentType: text/markdown size: 4851 perm: rw
+name: silverbullet/GeneralText lastModified: 1674597917075 contentType: text/markdown size: 1898 perm: rw
+
+
+[[silverbullet/GeneralText]]: [1898] (1674597917075)
+
+---
+
+ name: sandbox/index lastModified: 1674597852318 contentType: text/markdown size: 6550 perm: rw sandbox: test1 tags: sandbox,testtag
+
+
+[[sandbox/index]]: [6550] (1674597852318)
+
+---
+
+ name: silverbullet lastModified: 1674597465110 contentType: text/markdown size: 4851 perm: rw
 
 
 [[silverbullet]]: [4851] (1674597465110)
@@ -23,13 +37,6 @@ name: silverbullet lastModified: 1674597465110 contentType: text/markdown size: 
 
 
 [[silverbullet/issues/Per Directory Settings]]: [1187] (1674597461179)
-
----
-
- name: sandbox/index lastModified: 1674597319968 contentType: text/markdown size: 6548 perm: rw sandbox: test1 tags: sandbox,testtag
-
-
-[[sandbox/index]]: [6548] (1674597319968)
 
 ---
 
@@ -51,13 +58,6 @@ name: silverbullet lastModified: 1674597465110 contentType: text/markdown size: 
 
 
 [[silverbullet/issues/Ellipsis and folding]]: [416] (1674595859933)
-
----
-
- name: silverbullet/GeneralText lastModified: 1674595568094 contentType: text/markdown size: 1706 perm: rw
-
-
-[[silverbullet/GeneralText]]: [1706] (1674595568094)
 
 ---
 

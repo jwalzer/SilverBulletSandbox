@@ -4,7 +4,7 @@ summary: generate "virtual" pages for empty directories
 type: issue
 tags: silverbullet, wishlist
 date-created: 2023-01-24
-link: null
+link: https://github.com/silverbulletmd/silverbullet/issues/340
 ---
 [[silverbullet|Overview]]  
 2023-01-24
@@ -23,5 +23,5 @@ This gives the option to build a template, which contains a link to the parent d
 
 
 ### state
-* [ ] open ticket on github
-* [ ] document link: 
+* [x] open ticket on github
+* [x] document link: https://github.com/silverbulletmd/silverbullet/issues/340

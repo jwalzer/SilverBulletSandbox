@@ -4,7 +4,7 @@ summary: some settings should be possible to overwrite on a directory basis
 type: issue
 tags: silverbullet, wishlist, settings
 date-created: 2023-01-24
-link: null
+link: https://github.com/silverbulletmd/silverbullet/issues/341
 ---
 [[silverbullet|Overview]]  {[Page: Delete]}
 
@@ -14,7 +14,7 @@ link: null
 some settings should be possible to overwrite on a directory basis
 
 ### description
-In Ticket ... I suggest configurable Header, Footer and Sidepages. The template to use should be configured via `SETTINGS`. 
+In Ticket Github/#339 I suggest configurable Header, Footer and Sidepages. The template to use should be configured via `SETTINGS`. 
 
 Also the setting, which templates to use for pages or snippets can be set in such a way, that directories and entire subtrees can stay self-contained by providing their own templates.
 
@@ -30,5 +30,5 @@ This means, that if a page is shown that is stored in a directory, lets say `/fo
 * `/foo/bar/quux/SETTINGS` 
 
 ### state
-* [ ] open ticket on github
-* [ ] document link: 
+* [x] open ticket on github
+* [x] document link: https://github.com/silverbulletmd/silverbullet/issues/341

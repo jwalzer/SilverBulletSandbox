@@ -4,7 +4,7 @@ summary: Allow for include to only include specific parts of a page
 type: issue
 tags: silverbullet,wishlist
 date-created: 2023-01-24
-link: null
+link: https://github.com/silverbulletmd/silverbullet/issues/338
 ---
 [[silverbullet|Overview]]
 
@@ -70,5 +70,5 @@ FOO foo foo Foo
   * If the included page defines one or multiple `include_range`s with section names, then the result will be all the sections with that name in the order they appear in the included page
 
 ### state
-* [ ] open ticket on github
-* [ ] document link: 
+* [x] open ticket on github
+* [x] document link: https://github.com/silverbulletmd/silverbullet/issues/338
