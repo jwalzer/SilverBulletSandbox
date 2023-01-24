@@ -25,6 +25,7 @@ Additional tokens that would be valuable to have access to:
 * `currentPage`
 * `parentPage`
 * `TOC` - TableOfContents
+* `siteURL` - which is an attribute which should be configured in the `SETTINGS` page
 * 
 
 ### state

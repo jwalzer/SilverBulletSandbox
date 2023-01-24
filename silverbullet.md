@@ -48,11 +48,16 @@ ___
 
 * [[silverbullet/issues/Ellipsis and folding]]
   * Directive to allow folding/ellipsis of a section
+
+* [[silverbullet/issues/Per Directory Settings]]
+  * some settings should be possible to overwrite on a directory basis
 <!-- /query -->
 
 ### Open Tasks
 
 <!-- #query task where page =~ /^silverbullet.*/ and done = false render [[template/tasks/silverbullet]]-->
+* **[[silverbullet/issues/Per Directory Settings@1140|silverbullet/issues/Per Directory Settings]]**: open ticket on github 
+* **[[silverbullet/issues/Per Directory Settings@1168|silverbullet/issues/Per Directory Settings]]**: document link: 
 * **[[silverbullet/issues/Selective Include@1824|silverbullet/issues/Selective Include]]**: open ticket on github 
 * **[[silverbullet/issues/Selective Include@1852|silverbullet/issues/Selective Include]]**: document link: 
 * **[[silverbullet/issues/Ellipsis and folding@315|silverbullet/issues/Ellipsis and folding]]**: finalize description 
@@ -61,10 +66,10 @@ ___
 * **[[silverbullet/issues/Ellipsis and folding@397|silverbullet/issues/Ellipsis and folding]]**: document link: 
 * **[[silverbullet/issues/Header, Footer, SidePage@576|silverbullet/issues/Header, Footer, SidePage]]**: open ticket on github 
 * **[[silverbullet/issues/Header, Footer, SidePage@604|silverbullet/issues/Header, Footer, SidePage]]**: document link: 
-* **[[silverbullet/issues/Variable Expansion inside page@790|silverbullet/issues/Variable Expansion inside page]]**: open ticket on github 
-* **[[silverbullet/issues/Variable Expansion inside page@818|silverbullet/issues/Variable Expansion inside page]]**: document link: 
 * **[[silverbullet/issues/Keyboard Shortcut for Updates@827|silverbullet/issues/Keyboard Shortcut for Updates]]**: open ticket on github 
 * **[[silverbullet/issues/Keyboard Shortcut for Updates@855|silverbullet/issues/Keyboard Shortcut for Updates]]**: document link: 
+* **[[silverbullet/issues/Variable Expansion inside page@876|silverbullet/issues/Variable Expansion inside page]]**: open ticket on github 
+* **[[silverbullet/issues/Variable Expansion inside page@904|silverbullet/issues/Variable Expansion inside page]]**: document link: 
 * **[[silverbullet/issues/Virtual pages@961|silverbullet/issues/Virtual pages]]**: open ticket on github 
 * **[[silverbullet/issues/Virtual pages@989|silverbullet/issues/Virtual pages]]**: document link:
 <!-- /query -->

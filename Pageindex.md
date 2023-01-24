@@ -14,6 +14,7 @@
 * [[silverbullet/issues/Ellipsis and folding|silverbullet/issues/Ellipsis and folding]]
 * [[silverbullet/issues/Header, Footer, SidePage|silverbullet/issues/Header, Footer, SidePage]]
 * [[silverbullet/issues/Keyboard Shortcut for Updates|silverbullet/issues/Keyboard Shortcut for Updates]]
+* [[silverbullet/issues/Per Directory Settings|silverbullet/issues/Per Directory Settings]]
 * [[silverbullet/issues/Selective Include|silverbullet/issues/Selective Include]]
 * [[silverbullet/issues/Variable Expansion inside page|silverbullet/issues/Variable Expansion inside page]]
 * [[silverbullet/issues/Virtual pages|silverbullet/issues/Virtual pages]]
