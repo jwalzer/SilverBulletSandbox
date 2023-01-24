@@ -8,18 +8,42 @@ test
 <!-- /use -->
 
 
+[[sandbox/foobar]]
+
+
 <!-- #query page order by lastModified desc render [[template/query test]] -->
-name: oldindex lastModified: 1674225030906 contentType: text/markdown size: 5562 perm: rw
+name: sandbox/foobar lastModified: 1674260243489 contentType: text/markdown size: 2839 perm: rw tags: a,b,c,d
 
 
-[[oldindex]]: [5562] (1674225030906)
+[[sandbox/foobar]]: [2839] (1674260243489)
 
 ---
 
- name: sandbox/index lastModified: 1674225029763 contentType: text/markdown size: 1249 perm: rw sandbox: test1 tags: sandbox,testtag
+ name: sandbox/index lastModified: 1674260010401 contentType: text/markdown size: 1715 perm: rw sandbox: test1 tags: sandbox,testtag
 
 
-[[sandbox/index]]: [1249] (1674225029763)
+[[sandbox/index]]: [1715] (1674260010401)
+
+---
+
+ name: template/tagquery lastModified: 1674260006203 contentType: text/markdown size: 75 perm: rw
+
+
+[[template/tagquery]]: [75] (1674260006203)
+
+---
+
+ name: index lastModified: 1674228105932 contentType: text/markdown size: 5668 perm: rw
+
+
+[[index]]: [5668] (1674228105932)
+
+---
+
+ name: oldindex lastModified: 1674225030906 contentType: text/markdown size: 5562 perm: rw
+
+
+[[oldindex]]: [5562] (1674225030906)
 
 ---
 
